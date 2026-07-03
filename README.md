@@ -56,6 +56,8 @@ I am a Flutter developer with 4+ years of experience building scalable cross-pla
 - Android Studio
 - VS Code
 - Xcode
+- cursor ai
+- antigravity ide
 
 ---
 
